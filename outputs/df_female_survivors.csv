@@ -1,0 +1,234 @@
+Name,Age,Sex,Pclass,Survived
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38.0,female,1,1
+"Heikkinen, Miss. Laina",26.0,female,3,1
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35.0,female,1,1
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",27.0,female,3,1
+"Nasser, Mrs. Nicholas (Adele Achem)",14.0,female,2,1
+"Sandstrom, Miss. Marguerite Rut",4.0,female,3,1
+"Bonnell, Miss. Elizabeth",58.0,female,1,1
+"Hewlett, Mrs. (Mary D Kingcome) ",55.0,female,2,1
+"Masselmani, Mrs. Fatima",,female,3,1
+"McGowan, Miss. Anna ""Annie""",15.0,female,3,1
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",38.0,female,3,1
+"O'Dwyer, Miss. Ellen ""Nellie""",,female,3,1
+"Spencer, Mrs. William Augustus (Marie Eugenie)",,female,1,1
+"Glynn, Miss. Mary Agatha",,female,3,1
+"Nicola-Yarred, Miss. Jamila",14.0,female,3,1
+"Laroche, Miss. Simonne Marie Anne Andree",3.0,female,2,1
+"Devaney, Miss. Margaret Delia",19.0,female,3,1
+"O'Driscoll, Miss. Bridget",,female,3,1
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49.0,female,1,1
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",29.0,female,2,1
+"Rugg, Miss. Emily",21.0,female,2,1
+"West, Miss. Constance Mirium",5.0,female,2,1
+"Icard, Miss. Amelie",38.0,female,1,1
+"Nye, Mrs. (Elizabeth Ramell)",29.0,female,2,1
+"Andersson, Miss. Erna Alexandra",17.0,female,3,1
+"Dowdell, Miss. Elizabeth",30.0,female,3,1
+"McDermott, Miss. Brigdet Delia",,female,3,1
+"Ilett, Miss. Bertha",17.0,female,2,1
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",33.0,female,3,1
+"Fortune, Miss. Mabel Helen",23.0,female,1,1
+"Doling, Mrs. John T (Ada Julia Bone)",34.0,female,2,1
+"Salkjelsvik, Miss. Anna Kristine",21.0,female,3,1
+"Moran, Miss. Bertha",,female,3,1
+"Webber, Miss. Susan",32.5,female,2,1
+"Peter, Miss. Anna",,female,3,1
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",29.0,female,2,1
+"Newsom, Miss. Helen Monypeny",19.0,female,1,1
+"Nysten, Miss. Anna Sofia",22.0,female,3,1
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",24.0,female,3,1
+"Pears, Mrs. Thomas (Edith Wearne)",22.0,female,1,1
+"Gilnagh, Miss. Katherine ""Katie""",16.0,female,3,1
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",40.0,female,2,1
+"Chibnall, Mrs. (Edith Martha Bowerman)",,female,1,1
+"Johnson, Miss. Eleanor Ileen",1.0,female,3,1
+"Kink-Heilmann, Miss. Luise Gretchen",4.0,female,3,1
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",,female,3,1
+"Pinsky, Mrs. (Rosa)",32.0,female,2,1
+"Andersen-Jensen, Miss. Carla Christine Nielsine",19.0,female,3,1
+"Brown, Mrs. James Joseph (Margaret Tobin)",44.0,female,1,1
+"Lurette, Miss. Elise",58.0,female,1,1
+"Madigan, Miss. Margaret ""Maggie""",,female,3,1
+"Carr, Miss. Helen ""Ellen""",16.0,female,3,1
+"Cameron, Miss. Clear Annie",35.0,female,2,1
+"Newell, Miss. Madeleine",31.0,female,1,1
+"Honkanen, Miss. Eliina",27.0,female,3,1
+"Bazzani, Miss. Albina",32.0,female,1,1
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35.0,female,1,1
+"Asplund, Miss. Lillian Gertrud",5.0,female,3,1
+"Collyer, Miss. Marjorie ""Lottie""",8.0,female,2,1
+"Murphy, Miss. Katherine ""Kate""",,female,3,1
+"Hamalainen, Mrs. William (Anna)",24.0,female,2,1
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",29.0,female,3,1
+"Thorne, Mrs. Gertrude Maybelle",,female,1,1
+"Cherry, Miss. Gladys",30.0,female,1,1
+"Ward, Miss. Anna",35.0,female,1,1
+"Parrish, Mrs. (Lutie Davis)",50.0,female,2,1
+"Graham, Mrs. William Thompson (Edith Junkins)",58.0,female,1,1
+"Bissette, Miss. Amelia",35.0,female,1,1
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",41.0,female,2,1
+"Healy, Miss. Hanora ""Nora""",,female,3,1
+"Andrews, Miss. Kornelia Theodosia",63.0,female,1,1
+"Abbott, Mrs. Stanton (Rosa Hunt)",35.0,female,3,1
+"Connolly, Miss. Kate",22.0,female,3,1
+"Barber, Miss. Ellen ""Nellie""",26.0,female,1,1
+"Bishop, Mrs. Dickinson H (Helen Walton)",19.0,female,1,1
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50.0,female,1,1
+"Kelly, Miss. Anna Katherine ""Annie Kate""",,female,3,1
+"Keane, Miss. Nora A",,female,2,1
+"Fleming, Miss. Margaret",,female,1,1
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17.0,female,1,1
+"Francatelli, Miss. Laura Mabel",30.0,female,1,1
+"Hays, Miss. Margaret Bechstein",24.0,female,1,1
+"Ryerson, Miss. Emily Borie",18.0,female,1,1
+"Nilsson, Miss. Helmina Josefina",26.0,female,3,1
+"Kantor, Mrs. Sinai (Miriam Sternin)",24.0,female,2,1
+"Wick, Miss. Mary Natalie",31.0,female,1,1
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40.0,female,1,1
+"Slayter, Miss. Hilda Mary",30.0,female,2,1
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",22.0,female,2,1
+"Young, Miss. Marie Grice",36.0,female,1,1
+"Ball, Mrs. (Ada E Hall)",36.0,female,2,1
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",31.0,female,3,1
+"Hippach, Miss. Jean Gertrude",16.0,female,1,1
+"McCoy, Miss. Agnes",,female,3,1
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",,female,1,1
+"Burns, Miss. Elizabeth Margaret",41.0,female,1,1
+"Fortune, Miss. Alice Elizabeth",24.0,female,1,1
+"Brown, Miss. Amelia ""Mildred""",24.0,female,2,1
+"Smith, Miss. Marion Elsie",40.0,female,2,1
+"Davison, Mrs. Thomas Henry (Mary E Finck)",,female,3,1
+"Bowerman, Miss. Elsie Edith",22.0,female,1,1
+"McGovern, Miss. Mary",,female,3,1
+"Mockler, Miss. Helen Mary ""Ellie""",,female,3,1
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60.0,female,1,1
+"Moussa, Mrs. (Mantoura Boulos)",,female,3,1
+"Jermyn, Miss. Annie",,female,3,1
+"Aubart, Mme. Leontine Pauline",24.0,female,1,1
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",,female,1,1
+"Landergren, Miss. Aurora Adelia",22.0,female,3,1
+"Bidois, Miss. Rosalie",42.0,female,1,1
+"Nakid, Miss. Maria (""Mary"")",1.0,female,3,1
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",35.0,female,1,1
+"Buss, Miss. Kate",36.0,female,2,1
+"Lehmann, Miss. Bertha",17.0,female,2,1
+"Newell, Miss. Marjorie",23.0,female,1,1
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24.0,female,3,1
+"Trout, Mrs. William H (Jessie L)",28.0,female,2,1
+"Minahan, Miss. Daisy E",33.0,female,1,1
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",34.0,female,2,1
+"Silven, Miss. Lyyli Karoliina",18.0,female,2,1
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",28.0,female,2,1
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",19.0,female,2,1
+"Thorneycroft, Mrs. Percival (Florence Kate White)",,female,3,1
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",42.0,female,2,1
+"Carter, Miss. Lucile Polk",14.0,female,1,1
+"Richards, Mrs. Sidney (Emily Hocking)",24.0,female,2,1
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",45.0,female,2,1
+"Reynaldo, Ms. Encarnacion",28.0,female,2,1
+"Mellinger, Miss. Madeleine Violet",13.0,female,2,1
+"Baclini, Miss. Marie Catherine",5.0,female,3,1
+"Kenyon, Mrs. Frederick R (Marion)",,female,1,1
+"Toomey, Miss. Ellen",50.0,female,2,1
+"Baclini, Miss. Helene Barbara",0.75,female,3,1
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",33.0,female,2,1
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",23.0,female,2,1
+"Hirvonen, Miss. Hildur E",2.0,female,3,1
+"Turkula, Mrs. (Hedwig)",63.0,female,3,1
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35.0,female,1,1
+"Eustis, Miss. Elizabeth Mussey",54.0,female,1,1
+"Maioni, Miss. Roberta",16.0,female,1,1
+"Quick, Mrs. Frederick Charles (Jane Richards)",33.0,female,2,1
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",54.0,female,1,1
+"Lemore, Mrs. (Amelia Milley)",34.0,female,2,1
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",36.0,female,2,1
+"Perreault, Miss. Anne",30.0,female,1,1
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44.0,female,1,1
+"Ridsdale, Miss. Lucy",50.0,female,2,1
+"Quick, Miss. Phyllis May",2.0,female,2,1
+"Peter, Mrs. Catherine (Catherine Rizk)",,female,3,1
+"Hart, Miss. Eva Miriam",7.0,female,2,1
+"LeRoy, Miss. Bertha",30.0,female,1,1
+"Frolicher, Miss. Hedwig Margaritha",22.0,female,1,1
+"Crosby, Miss. Harriet R",36.0,female,1,1
+"Beane, Mrs. Edward (Ethel Clarke)",19.0,female,2,1
+"Ohman, Miss. Velin",22.0,female,3,1
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",48.0,female,1,1
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",39.0,female,1,1
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36.0,female,3,1
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53.0,female,1,1
+"Kelly, Miss. Mary",,female,3,1
+"Garside, Miss. Ethel",34.0,female,2,1
+"Silvey, Mrs. William Baird (Alice Munger)",39.0,female,1,1
+"Christy, Miss. Julie Rachel",25.0,female,2,1
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39.0,female,1,1
+"Taussig, Miss. Ruth",18.0,female,1,1
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52.0,female,1,1
+"Leitch, Miss. Jessie Wills",,female,2,1
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",24.0,female,2,1
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",22.0,female,2,1
+"Shutes, Miss. Elizabeth W",40.0,female,1,1
+"Murphy, Miss. Margaret Jane",,female,3,1
+"Herman, Miss. Alice",24.0,female,2,1
+"Becker, Miss. Marion Louise",4.0,female,2,1
+"Longley, Miss. Gretchen Fiske",21.0,female,1,1
+"Davis, Miss. Mary",28.0,female,2,1
+"Sagesser, Mlle. Emma",24.0,female,1,1
+"Baclini, Miss. Eugenie",0.75,female,3,1
+"Stanley, Miss. Amy Zillah Elsie",23.0,female,3,1
+"Doling, Miss. Elsie",18.0,female,2,1
+"O'Leary, Miss. Hanora ""Norah""",,female,3,1
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",,female,1,1
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",40.0,female,2,1
+"Turja, Miss. Anna Sofia",18.0,female,3,1
+"Madill, Miss. Georgette Alexandra",15.0,female,1,1
+"Karun, Miss. Manca",4.0,female,3,1
+"Mullens, Miss. Katherine ""Katie""",,female,3,1
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18.0,female,1,1
+"Kelly, Mrs. Florence ""Fannie""",45.0,female,2,1
+"Cleaver, Miss. Alice",22.0,female,1,1
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",24.0,female,1,1
+"Endres, Miss. Caroline Louise",38.0,female,1,1
+"Troutt, Miss. Edwina Celia ""Winnie""",27.0,female,2,1
+"Harper, Miss. Annie Jessie ""Nina""",6.0,female,2,1
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",30.0,female,2,1
+"Mannion, Miss. Margareth",,female,3,1
+"Allen, Miss. Elisabeth Walton",29.0,female,1,1
+"Ryerson, Miss. Susan Parker ""Suzette""",21.0,female,1,1
+"Sinkkonen, Miss. Anna",30.0,female,2,1
+"Wells, Miss. Joan",4.0,female,2,1
+"Herman, Mrs. Samuel (Jane Laver)",48.0,female,2,1
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33.0,female,1,1
+"Carter, Mrs. William Ernest (Lucile Polk)",36.0,female,1,1
+"Hogeboom, Mrs. John C (Anna Andrews)",51.0,female,1,1
+"Hocking, Mrs. Elizabeth (Eliza Needs)",54.0,female,2,1
+"Emanuel, Miss. Virginia Ethel",5.0,female,3,1
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43.0,female,1,1
+"Ayoub, Miss. Banoura",13.0,female,3,1
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",17.0,female,1,1
+"Sjoblom, Miss. Anna Sofia",18.0,female,3,1
+"Leader, Dr. Alice (Farnham)",49.0,female,1,1
+"Osman, Mrs. Mara",31.0,female,3,1
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",31.0,female,2,1
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33.0,female,1,1
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52.0,female,1,1
+"Moor, Mrs. (Beila)",27.0,female,3,1
+"Stone, Mrs. George Nelson (Martha Evelyn)",62.0,female,1,1
+"Yasbeck, Mrs. Antoni (Selini Alexander)",15.0,female,3,1
+"Compton, Miss. Sara Rebecca",39.0,female,1,1
+"Serepeca, Miss. Augusta",30.0,female,1,1
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",,female,1,1
+"Lines, Miss. Mary Conover",16.0,female,1,1
+"Aks, Mrs. Sam (Leah Rosen)",18.0,female,3,1
+"Wick, Mrs. George Dennick (Mary Hitchcock)",45.0,female,1,1
+"Baclini, Mrs. Solomon (Latifa Qurban)",24.0,female,3,1
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48.0,female,1,1
+"Bystrom, Mrs. (Karolina)",42.0,female,2,1
+"Duran y More, Miss. Asuncion",27.0,female,2,1
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47.0,female,1,1
+"Abelson, Mrs. Samuel (Hannah Wizosky)",28.0,female,2,1
+"Najib, Miss. Adele Kiamie ""Jane""",15.0,female,3,1
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56.0,female,1,1
+"Shelley, Mrs. William (Imanita Parrish Hall)",25.0,female,2,1
+"Graham, Miss. Margaret Edith",19.0,female,1,1
